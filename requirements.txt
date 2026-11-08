@@ -1,0 +1,5 @@
+﻿PyPortfolioOpt
+pandas
+scipy
+matplotlib
+plotly
